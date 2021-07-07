@@ -16,8 +16,24 @@ commons.close=
 commons.previous-page=
 commons.next-page=
 
+# Menus
+#  Settings
 menu.settings.title=
 menu.settings.button-name-format=
+
+# Commands
+#  /economy
+command.economy.header=
+command.economy.your-wallet=
+command.economy.your-money=
+
+#  /rank
+command.rank.header=
+command.rank.notifier=
+command.rank.text.default=
+command.rank.text.vip=
+command.rank.text.mvp=
+command.rank.text.staff=
 
 # Settings
 
@@ -39,20 +55,6 @@ setting.join-message=
 setting.join-message.lore=
 setting.join-firework=
 setting.join-firework.lore=
-
-# Commands
-#  /economy
-command.economy.header=
-command.economy.your-wallet=
-command.economy.your-money=
-
-#  /rank
-command.rank.header=
-command.rank.notifier=
-command.rank.text.default=
-command.rank.text.vip=
-command.rank.text.mvp=
-command.rank.text.staff=
 
 # Ranks
 

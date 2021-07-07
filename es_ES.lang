@@ -16,8 +16,24 @@ commons.close=&cCerrar
 commons.previous-page=&3Página anterior
 commons.next-page=&3Página siguiente
 
+# Menus
+#  Settings
 menu.settings.title=Ajustes
 menu.settings.button-name-format=&b%1 &f- %2
+
+# Commands
+#  /economy
+command.economy.header=\n&3&lSistema de economía&r\n
+command.economy.your-wallet=\n&3&lTu cartera&r\n
+command.economy.your-money=&fTienes &6%1 &fmonedas.
+
+#  /rank
+command.rank.header=\n&3&lRango&r\n
+command.rank.notifier=&fTu rango es %1&f.
+command.rank.text.default=
+command.rank.text.vip=
+command.rank.text.mvp=
+command.rank.text.staff=
 
 # Settings
 
@@ -39,20 +55,6 @@ setting.join-message=
 setting.join-message.lore=
 setting.join-firework=
 setting.join-firework.lore=
-
-# Commands
-#  /economy
-command.economy.header=\n&3&lSistema de economía&r\n
-command.economy.your-wallet=\n&3&lTu cartera&r\n
-command.economy.your-money=&fTienes &6%1 &fmonedas.
-
-#  /rank
-command.rank.header=\n&3&lRango&r\n
-command.rank.notifier=&fTu rango es %1&f.
-command.rank.text.default=
-command.rank.text.vip=
-command.rank.text.mvp=
-command.rank.text.staff=
 
 # Ranks
 
