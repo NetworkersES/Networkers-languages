@@ -1,1 +1,129 @@
+# Commons
 
+commons.no-permission=&cNo tienes permiso para ejecutar este comando.
+commons.no-permission-rank=&c¡Necesitas al menos rango %1 &cpara hacer esto! Compra rangos y mucho más en nuestra tienda: &9LINK&c.
+commons.unexpected-error=&cLo sentimos, se ha producido un error inesperado.
+commons.on=&aactivado
+commons.off=&cdesactivado
+
+commons.confirm-question=
+commons.confirm=&aConfirmar
+commons.cancel=&cCancelar
+
+commons.back=&cAtrás
+commons.close=&cCerrar
+
+commons.previous-page=&3Página anterior
+commons.next-page=&3Página siguiente
+
+menu.settings.title=Ajustes
+menu.settings.button-name-format=&b%1 &f- %2
+
+# Settings
+
+setting.visibility=
+setting.visibility.lore=
+setting.visibility.all=
+setting.visibility.friends=
+setting.visibility.none=
+
+setting.chat-enabled=
+setting.chat-enabled.lore=
+setting.chat-nsfw=
+setting.chat-nsfw.lore=
+setting.friend-requests=
+setting.friend-requests.lore=
+setting.flight=
+setting.flight.lore=
+setting.join-message=
+setting.join-message.lore=
+setting.join-firework=
+setting.join-firework.lore=
+
+# Commands
+#  /economy
+command.economy.header=\n&3&lSistema de economía&r\n
+command.economy.your-wallet=\n&3&lTu cartera&r\n
+command.economy.your-money=&fTienes &6%1 &fmonedas.
+
+#  /rank
+command.rank.header=\n&3&lRango&r\n
+command.rank.notifier=&fTu rango es %1&f.
+command.rank.text.default=
+command.rank.text.vip=
+command.rank.text.mvp=
+command.rank.text.staff=
+
+# Ranks
+
+rank.default.display-name=
+rank.default.colored-name=
+rank.default.prefix=&8
+rank.default.tab-prefix=&8
+rank.default.tab-suffix=
+
+rank.vip.display-name=
+rank.vip.colored-name=
+rank.vip.prefix=
+rank.vip.tab-prefix=
+rank.vip.tab-suffix=
+
+rank.vip_plus.display-name=
+rank.vip_plus.colored-name=
+rank.vip_plus.prefix=
+rank.vip_plus.tab-prefix=
+rank.vip_plus.tab-suffix=
+
+rank.vip_plus_plus.display-name=
+rank.vip_plus_plus.colored-name=
+rank.vip_plus_plus.prefix=
+rank.vip_plus_plus.tab-prefix=
+rank.vip_plus_plus.tab-suffix=
+
+rank.mvp.display-name=
+rank.mvp.colored-name=
+rank.mvp.prefix=
+rank.mvp.tab-prefix=
+rank.mvp.tab-suffix=
+
+rank.content_creator.display-name=
+rank.content_creator.colored-name=
+rank.content_creator.prefix=
+rank.content_creator.tab-prefix=
+rank.content_creator.tab-suffix=
+
+rank.builder.display-name=
+rank.builder.colored-name=
+rank.builder.prefix=
+rank.builder.tab-prefix=
+rank.builder.tab-suffix=
+
+rank.moderator.display-name=
+rank.moderator.colored-name=
+rank.moderator.prefix=
+rank.moderator.tab-prefix=
+rank.moderator.tab-suffix=
+
+rank.senior_mod.display-name=
+rank.senior_mo.colored-name=
+rank.senior_mod.prefix=
+rank.senior_mod.tab-prefix=
+rank.senior_mod.tab-suffix=
+
+rank.administrator.display-name=
+rank.administrator.colored-name=
+rank.administrator.prefix=
+rank.administrator.tab-prefix=
+rank.administrator.tab-suffix=
+
+rank.developer.display-name=
+rank.developer.colored-name=
+rank.developer.prefix=
+rank.developer.tab-prefix=
+rank.developer.tab-suffix=
+
+rank.owner.display-name=
+rank.owner.colored-name=
+rank.owner.prefix=
+rank.owner.tab-prefix=
+rank.owner.tab-suffix=
