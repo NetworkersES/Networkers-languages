@@ -16,6 +16,10 @@ commons.close=&cCerrar
 commons.previous-page=&3Página anterior
 commons.next-page=&3Página siguiente
 
+# Auth
+auth.password-contains-spaces=&c¡La contraseña no puede tener espacios!
+auth.password-not-valid=&c¡La contraseña tiene menos de 5 caracteres o tiene caracteres inválidos!
+
 # Menus
 #  Settings
 menu.settings.title=Ajustes

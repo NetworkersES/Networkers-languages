@@ -16,6 +16,10 @@ commons.close=
 commons.previous-page=
 commons.next-page=
 
+# Auth
+auth.password-contains-spaces=
+auth.password-not-valid=
+
 # Menus
 #  Settings
 menu.settings.title=
