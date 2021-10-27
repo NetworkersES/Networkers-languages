@@ -20,6 +20,10 @@ commons.next-page=&3Página siguiente
 auth.password-contains-spaces=&c¡La contraseña no puede tener espacios!
 auth.password-not-valid=&c¡La contraseña tiene menos de 5 caracteres o tiene caracteres inválidos!
 
+auth.command.login.deprecated=&c¡Este comando no es moderno! Preferimos que uses nuestro sistema de inicio de sesión Flow. ¡Lee las instrucciones que tienes delante de ti!
+auth.command.register.deprecated=&c¡Este comando no es moderno! Preferimos que uses nuestro sistema de registro Flow. ¡Lee las instrucciones que tienes delante de ti!
+auth.command.register.usage=&cUso: /register <contraseña> <contraseña>
+
 # Menus
 #  Settings
 menu.settings.title=Ajustes

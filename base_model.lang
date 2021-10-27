@@ -20,6 +20,10 @@ commons.next-page=
 auth.password-contains-spaces=
 auth.password-not-valid=
 
+auth.command.login.deprecated=
+auth.command.register.deprecated=
+auth.command.register.usage=
+
 # Menus
 #  Settings
 menu.settings.title=
