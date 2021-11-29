@@ -17,12 +17,19 @@ commons.previous-page=
 commons.next-page=
 
 # Auth
+#  Commons
 auth.password-contains-spaces=
 auth.password-not-valid=
 
+#  Login command
 auth.command.login.deprecated=
+auth.command.login.usage=
+auth.command.login.wrong-password=
+
+#  Register command
 auth.command.register.deprecated=
 auth.command.register.usage=
+auth.command.register.passwords-do-not-match=
 
 # Menus
 #  Settings
